@@ -1,2 +1,2 @@
 lien du site: 
-https://github.com/rebeccabosse/bettermother.git
+https://cdn.rawgit.com/rebeccabosse/bettermother/master/index.html
