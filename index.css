@@ -1,0 +1,36 @@
+body{
+  margin:40px
+auto;max-width:650px;
+
+font-size:18px;
+padding:0 ;
+}
+
+
+aside{
+  font-size: 20px;
+}
+
+.button-container{
+position: absolute;
+top:300px;
+  width: 100%;
+  left: 500px;
+
+}
+a {
+  color: blue;
+}
+#button-container{
+  height: 100px;
+  width: 300px;
+    transition: 0.3s;
+  background-color: #eb2f06;
+  color: white;
+  font-family: helvetica;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+
+
+}
